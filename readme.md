@@ -11,4 +11,4 @@ The examples use a RoBERTa-based sentiment classification model trained on twitt
 ## Query-Based Sentiment Visualization of Aggregated Youtube Transcripts
 The examples use a RoBERTa-based sentiment classification model. Inference is done on data collected from `youtube-transcript-api`. The user provides a list of youtube URLs, and the transcripts are combined and saved. The user can then query the transcripts for keywords and view the sentiment associated with that keyword. It is also possible to specify a sliding window size to group transcript entries together, allowing for greater context during inference.
 
-![line plot (cumulative)](images/transcrript-df-pie.png "youtube transcript sentiment analysis visualization")
+![line plot (df-pie)](images/transcrript-df-pie.png "youtube transcript sentiment analysis visualization")
