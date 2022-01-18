@@ -1,1 +1,1 @@
-![test](relative/path/to/img.jpg?raw=true "Title")
+![test](images/img_00.png?raw=true "Title")
